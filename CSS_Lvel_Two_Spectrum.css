@@ -1,0 +1,48 @@
+h1{
+  font-family: 'Liu Jian Mao Cao', cursive;
+  text-align: center;
+}
+
+
+table{
+    width: 100%;
+    border-spacing: 15px;
+    border:0;
+  }
+
+th{
+  height:50px;
+  border:0;
+}
+
+
+th, td{
+  padding: 50px;
+  border:0;
+}
+
+
+#Orange{
+  background-color: #E08E45;
+  height:500px;
+  border:0;
+}
+
+#White{
+  background-color: #E6E6E6;
+  border:0;
+}
+
+#Teal{
+  background-color: #087E8B;
+  border:0;
+}
+
+#Salmon{
+  background-color: #E08E45;
+  border:0;
+}
+#Maroon{
+  background-color: #3c1414;
+  border:0;
+}
